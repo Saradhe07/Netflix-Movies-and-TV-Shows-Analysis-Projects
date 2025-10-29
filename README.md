@@ -1,2 +1,2 @@
-# Projects
-A collection of diverse projects created for learning, experimentation, and showcasing development skills across various technologies.
+Netflix Movies & TV Shows Analysis
+To explore and understand Netflix’s content — how it varies by type, country, genre, rating, and release year, using data visualization and analysis.
