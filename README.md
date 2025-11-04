@@ -1,25 +1,62 @@
-Netflix Movies & TV Shows Analysis
+🎬 Netflix Movies & TV Shows Analysis
+🔍 Project Overview
 
-To explore and understand Netflix’s content  
-how it varies by type, country, genre, rating, and release year, using data visualization and analysis.
+This project focuses on analyzing Netflix’s global catalog to uncover key insights about content distribution, genre trends, and audience preferences. Using Python for EDA and Power BI for visualization, the analysis highlights how Netflix has evolved over time in terms of content type, regional availability, and release patterns.
 
-⚙️Tools & Technologies:
--Python
+🧠 Objectives
 
--Pandas – Data handling and cleaning
+Identify the most popular genres and content types (Movies vs TV Shows).
 
--Matplotlib & Seaborn – Data visualization
+Analyze the distribution of content by country and release year.
 
--Jupyter Notebook / Google Colab – Implementation
+Understand Netflix’s content growth trends and regional expansion.
 
-Key Insights:
+Build interactive dashboards to visualize insights for decision-making.
 
-1)Netflix has more Movies than TV Shows in its library.
+🛠️ Tools & Technologies
 
-2)Content production increased significantly after 2015.
+Languages: Python
 
-3)United States and India lead in the number of shows produced.
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
-4)Most common genres: Dramas, Comedies, and Documentaries.
+Visualization Tool: Power BI
 
-5)The most frequent rating is TV-MA (Mature Audience).
+Platform: Jupyter Notebook
+
+⚙️ Process
+
+Data Collection – Loaded Netflix dataset (.csv) into Python environment.
+
+Data Cleaning – Handled missing values, removed duplicates, and standardized data formats.
+
+Exploratory Data Analysis (EDA) –
+
+Distribution by genre, release year, and country.
+
+Comparison between Movies and TV Shows.
+
+Insights into content ratings and duration.
+
+Visualization & Reporting –
+
+Created visual trends using Seaborn and Matplotlib.
+
+Designed an interactive Power BI dashboard for storytelling.
+
+📊 Key Insights
+
+The number of Movies on Netflix is significantly higher than TV Shows.
+
+United States and India are among the top content-producing countries.
+
+Netflix’s content grew rapidly after 2015, indicating global expansion.
+
+The most common genres include Dramas, Comedies, and Documentaries.
+
+🧩 Outcomes
+
+Gained hands-on experience in EDA, data cleaning, and visualization.
+
+Strengthened understanding of data-driven storytelling.
+
+Built an interactive Power BI dashboard to present key insights effectively.
