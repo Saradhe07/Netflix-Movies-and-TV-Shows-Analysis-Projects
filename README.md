@@ -51,3 +51,6 @@ o The most common genres include Dramas, Comedies, and Documentaries.
 --Strengthened understanding of data-driven storytelling.
 
 --Built an interactive Power BI dashboard to present key insights effectively.
+
+🔗 Connect with Me
+🌐 www.linkedin.com/in/siva-saradhe-r-a62b8829a
