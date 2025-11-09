@@ -1,4 +1,5 @@
 🎬 Netflix Movies & TV Shows Analysis
+
 🔍 Project Overview
 
 This project focuses on analyzing Netflix’s global catalog to uncover key insights about content distribution, genre trends, and audience preferences. Using Python for EDA and Power BI for visualization, the analysis highlights how Netflix has evolved over time in terms of content type, regional availability, and release patterns.
